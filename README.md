@@ -2,3 +2,4 @@
 This is a K-Nearest Neighbor Algorithm made with C++, You can enter some input tuples to find the max closest results evaluated from that Algorithm.
 
 Finals Results shown will be collected from the Data-Set given by user in databases from which you want to retrieve data.
+You can run it on Visual Studio or you can also run code from cpp file in any other compiler.
