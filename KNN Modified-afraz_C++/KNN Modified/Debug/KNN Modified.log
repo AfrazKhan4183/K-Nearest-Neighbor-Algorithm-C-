@@ -1,0 +1,23 @@
+﻿  Source.cpp
+g:\drive\4th semester\00ad proj\web\knn modified-afraz_c++code\knn modified\source.cpp(327): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+g:\drive\4th semester\00ad proj\web\knn modified-afraz_c++code\knn modified\source.cpp(329): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+g:\drive\4th semester\00ad proj\web\knn modified-afraz_c++code\knn modified\source.cpp(332): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+g:\drive\4th semester\00ad proj\web\knn modified-afraz_c++code\knn modified\source.cpp(336): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+g:\drive\4th semester\00ad proj\web\knn modified-afraz_c++code\knn modified\source.cpp(347): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+g:\drive\4th semester\00ad proj\web\knn modified-afraz_c++code\knn modified\source.cpp(349): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+g:\drive\4th semester\00ad proj\web\knn modified-afraz_c++code\knn modified\source.cpp(351): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+g:\drive\4th semester\00ad proj\web\knn modified-afraz_c++code\knn modified\source.cpp(353): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+g:\drive\4th semester\00ad proj\web\knn modified-afraz_c++code\knn modified\source.cpp(364): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+g:\drive\4th semester\00ad proj\web\knn modified-afraz_c++code\knn modified\source.cpp(366): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+g:\drive\4th semester\00ad proj\web\knn modified-afraz_c++code\knn modified\source.cpp(369): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+g:\drive\4th semester\00ad proj\web\knn modified-afraz_c++code\knn modified\source.cpp(373): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+g:\drive\4th semester\00ad proj\web\knn modified-afraz_c++code\knn modified\source.cpp(384): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+g:\drive\4th semester\00ad proj\web\knn modified-afraz_c++code\knn modified\source.cpp(386): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+g:\drive\4th semester\00ad proj\web\knn modified-afraz_c++code\knn modified\source.cpp(388): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+g:\drive\4th semester\00ad proj\web\knn modified-afraz_c++code\knn modified\source.cpp(390): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+g:\drive\4th semester\00ad proj\web\knn modified-afraz_c++code\knn modified\source.cpp(447): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+g:\drive\4th semester\00ad proj\web\knn modified-afraz_c++code\knn modified\source.cpp(448): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+g:\drive\4th semester\00ad proj\web\knn modified-afraz_c++code\knn modified\source.cpp(130): warning C4101: 'ng': unreferenced local variable
+g:\drive\4th semester\00ad proj\web\knn modified-afraz_c++code\knn modified\source.cpp(35): warning C4101: 'h': unreferenced local variable
+  KNN Modified.vcxproj -> G:\drive\4th semester\00ad proj\web\KNN Modified-afraz_C++Code\Debug\KNN Modified.exe
+  KNN Modified.vcxproj -> G:\drive\4th semester\00ad proj\web\KNN Modified-afraz_C++Code\Debug\KNN Modified.pdb (Partial PDB)
